@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+tucker_conv/__init__.py
+tucker_conv/conv.py
+tucker_conv.egg-info/PKG-INFO
+tucker_conv.egg-info/SOURCES.txt
+tucker_conv.egg-info/dependency_links.txt
+tucker_conv.egg-info/top_level.txt
